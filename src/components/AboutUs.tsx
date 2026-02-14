@@ -69,10 +69,10 @@ export default function AboutUs() {
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           <TeamMember 
-            name="Kyle Kumar"
+            name="@ergophobian"
             role="Founder, Engineer"
             image="/lovable-uploads/5ed734c0-30ad-4839-96b1-df58296db79e.png"
-            description="M.S. Candidate in Data Science and dedicated to quality, scalability, and speed. Developing solutions since 2021, Kyle has successfully completed 14+ projects with a 100% success rate and 5-star reviews."
+            description="M.S. Candidate in Data Science and dedicated to quality, scalability, and speed. Developing solutions since 2021, Kairo has successfully completed 14+ projects with a 100% success rate and 5-star reviews."
           />
           
           <TeamMember 

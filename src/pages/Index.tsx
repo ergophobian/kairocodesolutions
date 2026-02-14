@@ -398,12 +398,12 @@ const Index = () => {
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <TestimonialCard 
-              quote="Kyle is an excellent developer and exceeded my expectations on this project. I will definitely use his services on future projects!"
+              quote="An excellent developer who exceeded my expectations on this project. I will definitely use their services on future projects!"
               author="★★★★★"
               company="Upwork"
             />
             <TestimonialCard 
-              quote="It was excellent working with Kyle. Looking forward to engaging him in the future."
+              quote="It was excellent working with Kairo. Looking forward to engaging them in the future."
               
               author="★★★★★"
               company="Upwork"
@@ -519,7 +519,7 @@ const Index = () => {
             <div>
               <h3 className="font-bold text-lg mb-4 text-white">Contact Us</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>kyle@kairocodesolutions.com</li>
+                <li>hello@kairocodesolutions.com</li>
                 <li></li>
                 <li>San Francisco, CA</li>
               </ul>
